@@ -1,6 +1,13 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+# Prerequisites
+
+Make sure to have node.js in order to download Angular Cli
+to do this go visit https://nodejs.org/en/download/ and download the appropriate version. 
+
+next open a terminal and run command `npm install -g @angular/cli`
+
 
 ## Development server
 
@@ -26,10 +33,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # Angular_Project
-
-# Prerequisites
-
-Make sure to have node.js in order to download Angular Cli
-to do this go visit https://nodejs.org/en/download/ and download the appropriate version. 
-
-next open a terminal and run command `npm install -g @angular/cli`
